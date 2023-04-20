@@ -3,10 +3,10 @@ print("*****Titulo*****")
 print("*"*10)
 print(texto)
 
-'''idade = int(input(f"Qual sua idade: "))
+idade = int(input(f"Qual sua idade: "))
 print(idade)
 print("# "*idade)
-'''
+
 
 #manipulando texto(string)
 print(f"o total de letras é: {len(texto)}")#len() vem de length, que significa total
