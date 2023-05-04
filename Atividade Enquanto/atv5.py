@@ -11,3 +11,5 @@ while cont <= 10:
         print(f"{num} + {cont} = {num + cont}")
         
     cont +=1
+
+    

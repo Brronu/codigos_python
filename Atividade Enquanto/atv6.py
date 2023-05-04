@@ -14,3 +14,5 @@ while cont <= 5:
 
 print(f"Valores dentro do intervalo: {dentroIntervalo}")
 print(f"Valores fora do intervalo: {foraIntervalo}")
+
+
