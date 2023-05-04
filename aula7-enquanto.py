@@ -16,7 +16,7 @@ print("Obrigado por usar o sistema\n")
 
 #while como se fosse o faça - enquanto
 
-while True:
+'''while True:
     senha = input("informe sua senha: ")
     if senha =="1234":
-        break
+        break'''
