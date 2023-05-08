@@ -1,5 +1,5 @@
 maior = 0
-while true:
+while True:
     num = int(input('informe um valor: '))
     if num >= maior:
         maior = num

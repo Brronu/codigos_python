@@ -1,5 +1,5 @@
 while True:
-    final = int(input("Informe um valor maior que zero"))
+    final = int(input("Informe um valor maior que zero: "))
     if final > 0:
             break 
 
