@@ -20,3 +20,15 @@ print("-"*30)
 for indice,e in enumerate(lanche):
     print (f"{indice} = {e}")
 
+
+
+
+
+
+
+
+
+
+
+
+l.kklllklil
