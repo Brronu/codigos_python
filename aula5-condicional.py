@@ -1,5 +1,6 @@
 nota1 = float(input("Informe a nota 1: "))
 nota2 = float(input("Informe a nota 2: "))
+idades = tuple()# outra forma de criar tuplas
 
 media = (nota1+ nota2)/2
 
