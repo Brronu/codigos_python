@@ -19,16 +19,3 @@ print("-"*30)
 # indice, ira armazenar os valores do indice    
 for indice,e in enumerate(lanche):
     print (f"{indice} = {e}")
-
-
-
-
-
-
-
-
-
-
-
-
-l.kklllklil
