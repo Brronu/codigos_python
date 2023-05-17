@@ -22,5 +22,6 @@ del(estado["populacao"])
 print (estado)
 
 #FORMA 3 - APAGAR TODO CONTEUDO
-estado.clear()
-print(estado)
+"""estado.clear()
+print(estado)"""
+          

@@ -1,9 +1,11 @@
+import os
 lista = ["João", 30, "Cohab"]
 pessoa = {
     "nome":"Bruno",
     "idade": 25,
     "bairro":"Renascença"
 }
+os.system("cls")
 
 print(lista[0])
 print(pessoa,"\n")

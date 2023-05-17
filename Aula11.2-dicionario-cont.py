@@ -19,9 +19,6 @@ for cont in range (0,3):
 print(grupo)
 """
 
-"""for nome,idade  in pessoa.copy():
-    print(f"{nome}: {idade}")"""
-
 #ACESSANDO ITENS DO DICIONARIO
 
 
