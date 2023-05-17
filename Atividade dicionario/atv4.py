@@ -1,6 +1,8 @@
+import os
 playlist = list ()
 musica = dict ()
 
+os.system("cls")
 for cont in range(2):
     nome = input("Qual o nome da musica: ")
     artista = input("Qual o nome do artista: ")
@@ -10,6 +12,7 @@ for cont in range(2):
 
     playlist.append(musica.copy())
     musica.clear()
+
 print(playlist)
 for linha in playlist:
     for chave, valor in linha.items():
