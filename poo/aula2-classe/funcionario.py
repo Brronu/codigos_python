@@ -8,5 +8,4 @@ class Funcionario:
         self.salario = salario
 
     def exibirDados(self):
-        nome="fulano"
         print(f"Ola {self.nome} seu cargo e {self.cargo} seu salario e {self.salario}")
