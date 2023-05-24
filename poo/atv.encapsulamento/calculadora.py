@@ -23,4 +23,5 @@ from calculadora import Calculadora
 
 minhaCalculadora = Calculadora()
 
-minhaCalculadora = soma(10, 15)
+minhaCalculadora = soma (10, 15)
+
