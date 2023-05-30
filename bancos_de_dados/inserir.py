@@ -1,3 +1,5 @@
+import os
+os.system("cls")
 import pymysql 
 
 # Estabelecendo a conexão
